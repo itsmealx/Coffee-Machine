@@ -1,3 +1,3 @@
-Digitla Coffee Machine in Python
+Digital Coffee Machine in Python
 
 Concepts: Functions, Loops, Dictionaries, List
